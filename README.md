@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+#### My name is Ulan I'm from Bishkek, Kyrgyzstan 🇰🇬
+
+I love doing magic with React 
 
 <!--
 **UlanTursunbek/UlanTursunbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
